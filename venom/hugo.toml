@@ -1,0 +1,5 @@
+baseURL = 'https://www.carolinawolfhounds.com/'
+languageCode = 'en-us'
+title = 'Carolina Wolfhounds'
+
+theme = ["wolfhounds"]

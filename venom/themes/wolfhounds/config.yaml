@@ -1,0 +1,46 @@
+baseURL: 'https://carolinawolfhounds.com'
+languageCode: en-us
+disableKinds:
+  - '404'
+title: 'Carolina Wolfhounds Rugby Club'
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+permalinks:
+  post: '/post/:year/:month/:day/:slug/'
+  note: '/note/:year/:month/:day/:slug/'
+menus:
+  main:
+    - name: Registration
+      Url: /registration
+      weight: 1
+    # - name: Teams
+    #   Url: /teams
+    #   weight: 2
+    # - name: Gear Shop
+    #   Url: /gearshop
+    #   weight: 3
+    # - name: Sponsorship
+    #   Url: /sponsorship
+    #   weight: 4
+    # - name: About
+    #   Url: /about
+    #   weight: 5
+    - name: Training
+      Url: /training
+      weight: 5
+    - name: Contact
+      Url: /contact
+      weight: 6
+outputs:
+  posts:
+    - HTML
+    - RSS
+params:
+  author: 'CWRC'
+  footer:
+    firstcolumn:
+    secondcolumn:
+    thirdcolumn:
+      - Copyright 2024 Carolina Wolfhounds Rugby Club. All Rights Reserved.
