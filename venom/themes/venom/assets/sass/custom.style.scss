@@ -1,0 +1,221 @@
+.navbar__logo sup {
+	font-size: 0.875rem;
+	margin-left: 2pt;
+	opacity: 0.85;
+}
+
+.hero__content__inner {
+	h6 {
+		color: #cecece;
+		margin-top: 2.2em;
+		position: absolute;
+		bottom: 20px;
+		text-align: center;	
+		width: 100%;
+		left: 0;
+		font-size: 0.7em;
+
+		a {
+			font-size: 1.1em;
+			color: #fafafa;
+		}
+	}
+}
+
+.docs__text__title {
+	font-size: 1.1em;
+	color: $text-dark;
+}
+
+.docs__options {
+	display: flex;
+	margin: 2.3em 0;
+	justify-content: space-between;
+
+	a {
+		color: $primary;
+		border-bottom: 1px solid $primary;
+
+		@include desktop {
+			opacity: 0.85;
+
+			&:hover {
+				opacity: 1;
+				color: $primary-dark;
+				border-color: $primary-dark;
+			}
+		}
+	}
+}
+
+.page__main h3:first-child {
+	margin-top: 0.6em;
+}
+
+.colors {
+	display: flex;
+	width: 100%;
+	padding-bottom: 1.3em;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.colors__description {
+	margin-bottom: 0;
+}
+
+.colorbox {
+	width: 70%;
+	margin: 0 auto;
+
+	@include tablet {
+		width: 28%;
+	}
+}
+
+.colorbox__title {
+	margin-bottom: 0.25em;
+	font-size: 0.925em;
+}
+
+.colorbox__preview {
+	text-align: center;
+	padding: 7px 0;
+	width: 100%;
+	display: block;
+	text-transform: uppercase;
+	color: #fff;
+
+	&--text {
+		color: $text;
+	}
+}
+
+.github {
+	max-width: 40px;
+}
+
+.text-container img {
+	vertical-align: middle;
+}
+
+.clients-grid {
+	margin-top: 1.5em;
+}
+
+.card-grid {
+	display: grid;
+	grid-gap: calc(var(--spacing) * 3.75);
+	grid-template-columns: repeat(3, 33.3%);
+	grid-auto-flow: dense;
+
+	@media only screen and (max-device-width: 560px) {
+		grid-template-columns: repeat(2, 50%);
+	}
+
+	@media only screen and (max-device-width: 450px) {
+		grid-template-columns: repeat(1, 100%);
+	}
+
+	.card {
+		display: block;
+		background: $background-alt;
+		margin: 0.25em;
+		padding: 1em 0 0;
+		transition: all 250ms;
+		font-size: 0.9em;
+		text-align: center;
+
+		.bannerbox {
+			margin-top: 1.5em;
+			width: 100%;
+		}
+
+		.banner {
+			margin: 0em;
+			width: 100%;
+			background-color: lighten($background-alt, 5%);
+			font-size: 1.25em;
+			font-weight: 700;
+		}
+
+		.subbanner {
+			margin: 0em;
+			width: 100%;
+			background-color: lighten($background-dark, 5%);
+			font-size: 1.25em;
+			font-weight: 700;
+		}
+
+		img {
+			width: 75%;
+			display: block;
+			margin: 1em auto;
+			fill: $text;
+		}
+
+		.button__card {
+			box-sizing: border-box;
+			margin: 1.55em 0.5em;
+
+			&__disabled {
+				margin: 1.55em 0.5em;
+				cursor: auto;
+				background-color: $background-dark;
+				border-color: $background-dark;
+				color: #fff;
+			}
+		}
+	}	
+}
+
+video.justify {
+	display: block;
+	margin: 0 auto;
+}
+
+
+// This section is for the signup form.
+
+@font-face {
+font-display: block;
+font-family: Roboto;
+src: url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+}
+
+@font-face {
+font-display: fallback;
+font-family: Roboto;
+font-weight: 600;
+src: url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+}
+
+@font-face {
+font-display: fallback;
+font-family: Roboto;
+font-weight: 700;
+src: url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.brevo.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+}
+
+#sib-container input:-ms-input-placeholder {
+text-align: left;
+font-family: "Helvetica", sans-serif;
+color: #c0ccda;
+}
+
+#sib-container input::placeholder {
+text-align: left;
+font-family: "Helvetica", sans-serif;
+color: #c0ccda;
+}
+
+#sib-container textarea::placeholder {
+text-align: left;
+font-family: "Helvetica", sans-serif;
+color: #c0ccda;
+}
+
+#sib-container a {
+text-decoration: underline;
+color: #2BB2FC;
+}

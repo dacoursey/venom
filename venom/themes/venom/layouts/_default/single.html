@@ -1,0 +1,49 @@
+{{ define "main" }}
+<!-- hero -->
+<div class="page__header">
+	<div class="hero__overlay hero__overlay--gradient"></div>
+	<div class="hero__mask"></div>
+	<div class="page__header__inner">
+		<div class="container">
+			<div class="page__header__content">
+				<div class="page__header__content__inner" id="navConverter">
+					<h1 class="page__header__title">{{ .Title }}</h1>
+					<p class="page__header__text">{{ .Params.subtitle }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- content -->
+<div class="page">
+	<div class="container">
+		<div class="page__inner">
+			<div class="page__main">
+				{{ if eq .Params.justify "center" }}
+				<div class="text-container text-container--center">
+					<div>
+						<time class="article-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+							<span>{{ .Date.Format "2 Jan 2006" }}</span>
+						</time>
+						<span> by </span>
+						{{ if .Params.githubusername }}
+						<a href="https://github.com/{{ .Params.githubusername }}">{{ .Params.author }}</a>
+						<img class="github" src="https://github.com/{{ .Params.githubusername }}.png?size=40"/>
+						{{ else }}
+						{{ if .Params.author }}
+						<span>{{ .Params.author }}</span>
+						{{ else }}
+						<span>{{ .Site.Params.author }}</span>
+						{{ end }}
+						{{ end }}
+					</div>
+					<div>{{ .Content }}</div>
+				</div>
+				{{ else }}
+				<div class="text-container">{{ .Content }}</div>
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}

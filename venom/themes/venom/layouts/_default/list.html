@@ -1,0 +1,70 @@
+{{ define "main" }}
+
+{{ if not .IsHome }}
+<!-- hero unit -->
+<div class="page__header">
+	<div class="hero__overlay hero__overlay--gradient"></div>
+	<div class="hero__mask"></div>
+	<div class="page__header__inner">
+		<div class="container">
+			<div class="page__header__content">
+				<div class="page__header__content__inner" id="navConverter">
+					<h1 class="page__header__title">{{ .Title }}</h1>
+					<p class="page__header__text">{{ .Params.subtitle }}</p>
+					{{ if where .Data.Pages "Section" "!=" ""}}
+					<p class="page__header__text">Subscribe to our <a class="subtitle_link" href="#">
+						<img src="/images/rss.svg" />RSS feed</a> for automatic updates.</p>
+					{{ end }}
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}
+<div class="page">
+	<div class="container">
+		<div class="page__inner">
+			<div class="page__main">
+				{{ if .Content }}
+					{{ if eq .Params.justify "center" }}
+					<div class="text-container text-container--center">{{ .Content }}</div>
+					{{ else }}
+					<div class="text-container">{{ .Content }}</div>
+					{{ end }}
+				{{ else }}
+				{{ if not .IsHome }}
+				<div class="text-container text-container--center">
+				<ul class="post-list">
+					{{ range (where .Data.Pages "Section" "!=" "") }}
+					<li class="post-block">
+						<h2 class="post-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+						<div>
+							<time class="post-date" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+								<span>{{ .Date.Format "2 Jan 2006" }}</span>
+							</time>
+							<span> by </span>
+							{{ if .Params.githubusername }}
+							<a href="https://github.com/{{ .Params.githubusername }}">{{ .Params.author }}</a>
+							{{ else }}
+							{{ if .Params.author }}
+							<span>{{ .Params.author }}</span>
+							{{ else }}
+							<span>{{ .Site.Params.author }}</span>
+							{{ end }}
+							{{ end }}
+						</div>
+						<div>{{ .Summary | safeHTML }}</div>
+						<footer class="read-more">
+							<a href="{{ .RelPermalink }}">Read More &raquo;</a>
+						</footer>
+					</li>
+					{{ end }}
+				</ul>
+				</div>
+				{{ end }}
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</div>
+{{ end }}
