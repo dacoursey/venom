@@ -1,5 +1,5 @@
-baseURL = 'https://www.carolinawolfhounds.com/'
+baseURL = 'https://www.club-venom.com/'
 languageCode = 'en-us'
-title = 'Carolina Wolfhounds'
+title = 'Club Venom Wrestling'
 
-theme = ["wolfhounds"]
+theme = ["venom"]
