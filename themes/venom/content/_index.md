@@ -34,7 +34,7 @@ single:
     alt: Why Wrestling
   - title: Safety First
     text:
-      Every one of our coaches is passionate about keeping wrestlers healthy. Wrestling is a contact sport with a lot of bumps and bruises. We have a certified EMT/Sports Medicine Trainer at every match and our coaches must attain the SafeSport certification prior to participating in any team activities.
+      Every one of our coaches is passionate about keeping wrestlers healthy. Wrestling is a contact sport with a lot of bumps and bruises. We have a certified EMT/Sports Medicine Trainer at every match and our coaches must attain the SafeSport certification prior to participating in any club activities.
     src: /images/icon-bandage.webp
     alt: Safety First
 # signup:
