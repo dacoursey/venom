@@ -7,4 +7,6 @@ justify: 'center'
 
 ## Registration
 
-Registration will open two months before the season starts.
+Registration opens March 3rd.  For now just show up at the Catawba Ridge High School wrestling room.
+
+Payment is accepted as cash or check.

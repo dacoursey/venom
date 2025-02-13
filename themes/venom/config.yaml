@@ -38,7 +38,7 @@ outputs:
     - HTML
     - RSS
 params:
-  author: 'CWRC'
+  author: 'Club Venom'
   footer:
     firstcolumn:
     secondcolumn:

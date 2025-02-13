@@ -9,15 +9,16 @@ justify: 'center'
 
 Please send emails to our general inbox.
 
-- [info@carolinawolfhounds.com](mailto:info@carolinawolfhounds.com)
+- [clubvenomwrestling@gmail.com](mailto:clubvenomwrestling@gmail.com)
 
 
 ## Social Media
 
 For social updates, we're on a few popular sites.
 
-- [@CarolinaWolfhounds](https://www.twitter.com/carolinawolfhounds) on Twitter
-- [@CarolinaWolfhounds](https://www.facebook.com/carolinawolfhounds) on Facebook
-- [@CarolinaWolfhounds](https://www.tiktok.com/carolinawolfhounds) on TikTok
-- [@CarolinaWolfhounds](https://www.instagram.com/carolinawolfhounds) on Instagram
+- [@ClubVenomWrestling](https://www.facebook.com/clubvenomwrestling) on Facebook
+- [@ClubVenomWrestling](https://www.tiktok.com/clubvenomwrestling) on TikTok
+- [@ClubVenomWrestling](https://www.instagram.com/clubvenomwrestling) on Instagram
+- [@ClubVenomWrestling](https://www.bluesky.com/clubvenomwrestling) on Bluesky
+
 

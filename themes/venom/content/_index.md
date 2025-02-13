@@ -1,7 +1,7 @@
 ---
 hero:
   title: Coming Soon!
-  text: Club Venom is bringing the proud tradition of top-tier youth and high school wrestling to Fort Mill.
+  text: Club Venom is continuing the proud tradition of top-tier youth and high school wrestling in Fort Mill.
   button:
     - title: Learn More
       url: #
@@ -11,35 +11,35 @@ about:
   text: While we don't know everything yet, we have some of the basic info that you'll need.
   box:
     - title: Who?
-      text: Boys and girls ages 8-18. Teams are broken up by U10, U12, U14, and High School.
+      text: Boys and girls grades 6-12. Competitions are broken up using SC weight class guidelines..
       src: /images/icon-kids.webp
       alt: Who?
     - title: What?
-      text: Full contact, rugby union style of play. Depending on the number of players we run 15, 12, 10, or 7 to a side.
+      text: Folk style wrestling, with a splash of freestyle.
       src: /images/icon-ball.webp
       alt: What?
     - title: When?
-      text: Winter season. We start when school football ends, typically early December and goes through mid February.  
+      text: We run outside of the school wrestling season.
       src: /images/icon-clock.webp
       alt: When?
     - title: Where?
-      text: Not final yet, but the plan is practice will be at the Catawba Ridge HS field complex. Practices will be twice a week, 6-8PM.
+      text: Catawba Ridge High School wrestling room. Park in the gym parking lot and walk down the hill path to the metal door.
       src: /images/icon-map.webp
       alt: Where?
 single:
   - title: Why?
     text:
-      If you're new to the sport of rugby, it's unlike any other sport. On the field everyone is competitive, but afterwards we treat each other with dignity and respect. It's one of the most pleasant youth sporting activities you can find.
+      If you're new to the sport of wrstling, it's unlike any other sport. Your child will learn to overcome hardship, gain confidence and strength, and build bonds that last a lifetime.
     src: /images/undraw-devices.svg
-    alt: The Rugby Way
+    alt: Why Wrestling
   - title: Safety First
     text:
-      Every one of our coaches is passionate about keeping players healthy. Rugby is a contact sport with a lot of bumps and bruises, but we see far fewer major injuries than a typical football team. We have a certified EMT/Sports Medicine Trainer at every match and our coaches must attain the SafeSport certification prior to participating in any team activities.
+      Every one of our coaches is passionate about keeping wrestlers healthy. Wrestling is a contact sport with a lot of bumps and bruises. We have a certified EMT/Sports Medicine Trainer at every match and our coaches must attain the SafeSport certification prior to participating in any team activities.
     src: /images/icon-bandage.webp
     alt: Safety First
-signup:
-  - title: Get on the list!
-    text: The first place to get news.
+# signup:
+#   - title: Get on the list!
+#     text: The first place to get news.
 # gallery:
 #   title: See it in Action
 #   subtitle: Click a screenshot for a high resolution image or check out our for the full experience.
@@ -59,10 +59,10 @@ signup:
 #   - imgtitle: Live TV EPG
 #     src: /images/screenshots/epg
 #     alt: Live TV EPG
-cta:
-  title: Resources
-  text: New to rugby? Check out the basics here.
-  button:
-    title: Learn More
-    url: /training
+# cta:
+#   title: Resources
+#   text: New to rugby? Check out the basics here.
+#   button:
+#     title: Learn More
+#     url: /training
 ---
