@@ -16,10 +16,10 @@ about:
       alt: Who?
     - title: What?
       text: Folk style wrestling, with a splash of freestyle.
-      src: /images/icon-ball.webp
+      src: /images/icon-wrestlers.png
       alt: What?
     - title: When?
-      text: We run outside of the school wrestling season.
+      text: We run outside of the school wrestling season. Practice is Monday - Thursday 6-8 PM.
       src: /images/icon-clock.webp
       alt: When?
     - title: Where?
