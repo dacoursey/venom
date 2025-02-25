@@ -29,7 +29,7 @@ about:
 single:
   - title: Why?
     text:
-      If you're new to the sport of wrstling, it's unlike any other sport. Your child will learn to overcome hardship, gain confidence and strength, and build bonds that last a lifetime.
+      If you're new to the sport of wrestling, it's unlike any other sport. Your child will learn to overcome hardship, gain confidence and strength, and build bonds that last a lifetime.
     src: /images/undraw-devices.svg
     alt: Why Wrestling
   - title: Safety First
