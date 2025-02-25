@@ -1,6 +1,6 @@
 ---
 hero:
-  title: Coming Soon!
+  title: Now Open!
   text: Club Venom is continuing the proud tradition of top-tier youth and high school wrestling in Fort Mill.
   button:
     - title: Learn More
