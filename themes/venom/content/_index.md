@@ -23,7 +23,7 @@ about:
       src: /images/icon-clock.webp
       alt: When?
     - title: Where?
-      text: Catawba Ridge High School wrestling room. Park in the gym parking lot and walk down the hill path to the metal door.
+      text: Catawba Ridge High School wrestling room. Park in the gym parking lot and walk down the hill path to the metal door marked with a red number 22.
       src: /images/icon-map.webp
       alt: Where?
 single:
