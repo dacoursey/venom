@@ -14,6 +14,11 @@ Club registration is now open.
 
 Payment is accepted as cash or check.
 
+Make checks payable to:
+
+CRHS ABC Booster
+Memo/attn: Wrestling Team
+
 
 ## Summer Camp
 
