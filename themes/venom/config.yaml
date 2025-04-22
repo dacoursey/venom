@@ -29,10 +29,13 @@ menus:
     #   weight: 5
     - name: Training
       Url: /training
-      weight: 5
+      weight: 2
+    - name: FAQ
+      Url: /faq
+      weight: 3
     - name: Contact
       Url: /contact
-      weight: 6
+      weight: 4
 outputs:
   posts:
     - HTML

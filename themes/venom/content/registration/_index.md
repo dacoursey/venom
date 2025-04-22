@@ -20,13 +20,6 @@ CRHS ABC Booster
 Memo/attn: Wrestling Team
 
 
-## Store
-
-This will be open until March 29th, 2025.  Get your order in!
-
-[Rudis Store](https://www.rudis.com/collections/jonathan-opp0024805)
-
-
 ## Summer Camp
 
 We will be hosting a 3-day summer camp in June. Registration is not open yet. If you are interested fill out the form above and put "summer camp" in the comments box.
