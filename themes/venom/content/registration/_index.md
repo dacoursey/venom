@@ -22,4 +22,4 @@ Memo/attn: Wrestling Team
 
 ## Summer Camp
 
-We will be hosting a 3-day summer camp in June. Registration is not open yet. If you are interested fill out the form above and put "summer camp" in the comments box.
+We will be hosting a 3-day summer camp June 2-4. Registration is not open yet. If you are interested fill out the form above and put "summer camp" in the comments box.

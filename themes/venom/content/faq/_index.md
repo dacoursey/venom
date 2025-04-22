@@ -13,8 +13,8 @@ No.  During the high school wrestling season, Club Venom is paused while we focu
 
 #### What are the important dates?
 
-High School Season - November through February
-Club Venom - April through October
+- High School Season - November through February
+- Club Venom - April through October
 
 #### What style to you teach?
 
