@@ -10,6 +10,7 @@ justify: 'center'
 Club registration is now open.  
 
 1. Fill out the signup form here:  
+
 #### [Club Interest Form](https://form.jotform.com/250546295577165)
 
 #### [Youth Interest Form](https://form.jotform.com/250842963174159)
