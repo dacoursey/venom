@@ -9,7 +9,10 @@ justify: 'center'
 
 Club registration is now open.  
 
-1. Fill out the signup form here:  [Signup / Interest Form](https://form.jotform.com/250546295577165)
+1. Fill out the signup form here:  
+[Club Interest Form](https://form.jotform.com/250546295577165)
+[Youth Interest Form](https://form.jotform.com/250842963174159)
+
 2. Show up at the Catawba Ridge High School wrestling room.
 
 Payment is accepted as cash or check.
