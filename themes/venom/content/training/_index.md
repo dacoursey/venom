@@ -11,11 +11,26 @@ Unleash your potential with Club Venom, the premier youth wrestling club dedicat
 
 We focus on skill development, mental toughness, and sportsmanship to help each wrestler reach their full potential on and off the mat. Join us and be part of a team that’s fierce, focused, and ready to dominate — because at Club Venom, we don’t just wrestle, we strike!
 
+#### Club
 - Monday - Thursday: 6-8 PM
-- $100 per Wrestler (cash or check)
+- Shoes Required
 - USA Wrestling Card Required
 
-[Signup / Interest Form](https://form.jotform.com/250546295577165)
+- $125/month per Wrestler (cash or check)
+Or
+- $200 for a 10-pack of sessions.
+
+#### Youth
+- Monday and Wednesday: 6-7 PM
+- Shoes Required
+- USA Wrestling Card Required
+
+- $200 Flat Fee per Wrestler (cash or check)
+Or
+- $100 for a 10-pack of sessions.
+
+
+### [Register Here](http://club-venom.com/registration)
 
 All proceeds benefit the Catawba Ridge Wrestling program.
 
